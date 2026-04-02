@@ -1,8 +1,0 @@
-[project]
-name = "python-9246"
-description = "some python things"
-readme = "README.md"
-requires-python = ">=3.14"
-dependencies = [
-    "watchfiles>=1.1.1",
-]
