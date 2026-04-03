@@ -17,7 +17,7 @@ import miniaudio
 
 def restart_script():
     print("DONT QUIT")
-    os.execv(sys.executable, ["python"] + sys.argv)
+    os.execv(sys.executable, [sys.executable] + sys.argv)
 
 
 atexit.register(restart_script)
@@ -41,3 +41,5 @@ with miniaudio.PlaybackDevice(
     time.sleep(info.duration)
 
 atexit.unregister(restart_script)
+
+# created by unsandpiper8 2/4/2026 for the python-9246 repo.
