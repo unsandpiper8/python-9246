@@ -49,7 +49,7 @@ def handle_click_and_start(_x, _y):
     shape_number += 1
     size, shape = start_script()
     print(
-        f"shape number {shape_number} has properties:\nsize/turtle_forward = {size} \nshape/turtle_left = {shape}"
+        f"\nshape number {shape_number} has properties:\nsize/turtle_forward = {size} \nshape/turtle_left = {shape}"
         )
 
 
