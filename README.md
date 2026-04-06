@@ -11,7 +11,9 @@ python things made by [unsandpiper8](https://github.com/unsandpiper8)
 >**song**: forces the user to listen to bulls of heaven - lovely pear  
 
 [**turtles:**](https://github.com/unsandpiper8/python-9246/tree/main/turtles)  
->**random shape**: generates a cool shape. generates a new shape if the user clicks the turtles window [example] <- coming soon  
+>**random shape**: generates a cool shape. generates a new shape if the user clicks the turtles window. also prints the shapes attributes in the terminal
+>[example] <- coming soon  
+>**shape shower**: uses parameters to generate cool shapes. what **random shape** prints in the terminal can be used in this script.   
 >**spiral tortoise**: draws some kind of weird "spriral" [example] <- coming soon  
 >**turtledoodles.py**: draws randomly in a pretty cool way [example] <- coming soon  
 
